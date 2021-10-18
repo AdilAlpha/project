@@ -1,0 +1,3 @@
+Overview: I have web scarp the covid data from "https://www.mohfw.gov.in/" using BeautifulSoup and selenium
+and converted that data into a DataFrame and saved it in to a .csv file using Pandas.
+And shown the insight of the data by using Plotly interactive Graphs. 
